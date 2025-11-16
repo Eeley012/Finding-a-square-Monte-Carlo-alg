@@ -1,0 +1,20 @@
+# JetBrains
+.idea/
+
+# Build directories
+cmake-build-*/
+build/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+
+# MacOS garbage
+.DS_Store
